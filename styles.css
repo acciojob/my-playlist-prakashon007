@@ -1,15 +1,20 @@
 /*  your css code here. If applicable */
-body{
-	background:#cccccc;
+
+*{
+	margin:0;
+	padding:0;
 }
-h1{
+	body{
+	background:#cccccc;
+	}
+h2{
 	text-align:center;
 	font-size:24px;
 }
 .player_one{
 	background:white;
 	height:100px;
-	padding:10px;
+	padding:0px;
 	border-radius:5px;
 	border:1px solid black;
 	align-items:center;
